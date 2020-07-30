@@ -1,4 +1,4 @@
-# The Franchise Grou
+# The Franchise Group
 
 A Flutter application made by [Sarthak Bhatnagar](https://github.com/sarthak290) for Franchise Group.
 
@@ -7,17 +7,17 @@ A Flutter application made by [Sarthak Bhatnagar](https://github.com/sarthak290)
 
 ## Screenshots of the app:
 
+<img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172826.png" width="300" height="600" title="Intro Slider Screen 1">
 
-![Intro Slider Screen 1](https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172826.png =100x100)
+<img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172833.png" width="300" height="600" title="Intro Slider Screen 2">
 
-![Intro Slider Screen 2](https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172833.png)
+<img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172839.png" width="300" height="600" title="Intro Slider Screen 3">
 
-![Intro Slider Screen 3](https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172839.png)
+<img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172851.png" width="300" height="600" title="Sign Up">
+  
+<img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172857.png" width="300" height="600" title="Sign In">
 
-![Sign Up](https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172851.png)
+<img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172918.png" width="300" height="600" title="Home Screen">
 
-![Sign In](https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172857.png)
+<img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172957.png" width="300" height="600" title="Image Upload">
 
-![Home screen](https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172918.png)
-
-![Image Upload](https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172957.png)
