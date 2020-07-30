@@ -21,3 +21,4 @@ A Flutter application made by [Sarthak Bhatnagar](https://github.com/sarthak290)
 
 <img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/Screenshot_20200730-172957.png" width="300" height="600" title="Image Upload">
 
+<img src="https://raw.githubusercontent.com/sarthak290/Franchise-Group/master/assets/firebase.PNG" width="800" height="400" title="Image Upload">
